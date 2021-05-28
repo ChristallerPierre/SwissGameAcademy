@@ -1,0 +1,4 @@
+map
+	game/firstpersonbp/maps/firstpersonexamplemap
+bp
+	firstpersonbp/blueprints
